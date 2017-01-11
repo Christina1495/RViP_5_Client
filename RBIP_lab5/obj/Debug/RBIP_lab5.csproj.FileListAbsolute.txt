@@ -1,0 +1,16 @@
+E:\LABS\RBIP_lab5\RBIP_lab5\bin\Debug\RBIP_lab5.exe.config
+E:\LABS\RBIP_lab5\RBIP_lab5\bin\Debug\RBIP_lab5.exe
+E:\LABS\RBIP_lab5\RBIP_lab5\bin\Debug\RBIP_lab5.pdb
+E:\LABS\RBIP_lab5\RBIP_lab5\bin\Debug\Apache.Ignite.Core.dll
+E:\LABS\RBIP_lab5\RBIP_lab5\bin\Debug\Apache.Ignite.Core.xml
+E:\LABS\RBIP_lab5\RBIP_lab5\obj\Debug\RBIP_lab5.csprojResolveAssemblyReference.cache
+E:\LABS\RBIP_lab5\RBIP_lab5\obj\Debug\RBIP_lab5.exe
+E:\LABS\RBIP_lab5\RBIP_lab5\obj\Debug\RBIP_lab5.pdb
+C:\Users\Christina_R\Desktop\RBIP_lab5\RBIP_lab5\bin\Debug\RBIP_lab5.exe.config
+C:\Users\Christina_R\Desktop\RBIP_lab5\RBIP_lab5\obj\Debug\RBIP_lab5.exe
+C:\Users\Christina_R\Desktop\RBIP_lab5\RBIP_lab5\obj\Debug\RBIP_lab5.pdb
+C:\Users\Christina_R\Desktop\RBIP_lab5\RBIP_lab5\bin\Debug\RBIP_lab5.exe
+C:\Users\Christina_R\Desktop\RBIP_lab5\RBIP_lab5\bin\Debug\RBIP_lab5.pdb
+C:\Users\Christina_R\Desktop\RBIP_lab5\RBIP_lab5\bin\Debug\Apache.Ignite.Core.dll
+C:\Users\Christina_R\Desktop\RBIP_lab5\RBIP_lab5\bin\Debug\Apache.Ignite.Core.xml
+C:\Users\Christina_R\Desktop\RBIP_lab5\RBIP_lab5\obj\Debug\RBIP_lab5.csprojResolveAssemblyReference.cache
